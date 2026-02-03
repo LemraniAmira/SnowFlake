@@ -1,4 +1,4 @@
-# SnowFlake
+# Présentation Base de Données Avancées
 
 Nom : LEMRANI Amira, LAMRINI Houda, OULQAID Fatima.
 
